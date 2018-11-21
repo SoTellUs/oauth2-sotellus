@@ -2,7 +2,7 @@
 
 Contributions are **welcome** and will be fully **credited**.
 
-We accept contributions via Pull Requests on [Github](https://github.com/SoTellUs/oauth2-sotellus).
+We accept contributions via Pull Requests on [Github](https://github.com/sotellus/oauth2-sotellus).
 
 
 ## Pull Requests

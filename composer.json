@@ -1,5 +1,5 @@
 {
-    "name": "SoTellUs/oauth2-sotellus",
+    "name": "sotellus/oauth2-sotellus",
     "description": "SoTellUs OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
     "license": "MIT",
     "authors": [
