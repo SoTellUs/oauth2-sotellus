@@ -17,7 +17,7 @@ Usage is the same as The League's OAuth client, using `\SoTellUs\OAuth2\Client\P
 ### Authorization Code Flow
 
 ```php
-$provider = new SoTellUs\OAuth2\Client\Provider\SoTellUs([
+$provider = new \SoTellUs\OAuth2\Client\Provider\SoTellUs([
     'clientId'          => '{sotellus-client-id}',
     'clientSecret'      => '{sotellus-client-secret}',
     'redirectUri'       => 'https://example.com/callback-url',
@@ -82,7 +82,7 @@ Please see [CONTRIBUTING](https://github.com/sotellus/oauth2-sotellus/blob/maste
 
 ## Credits
 
-- [Steven Maguire](https://github.com/sotellus)
+- [Rich Johnson](https://github.com/webaddict)
 - [All Contributors](https://github.com/sotellus/oauth2-sotellus/contributors)
 
 
